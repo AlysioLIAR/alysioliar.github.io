@@ -1,5 +1,0 @@
----
-author: Alysio
----
-
-Test.
